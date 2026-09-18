@@ -21,10 +21,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shouryarai607/the-dsa-grind/tree/master/0014-longest-common-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/2255-count-prefixes-of-a-given-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shouryarai607/the-dsa-grind/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
