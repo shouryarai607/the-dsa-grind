@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shouryarai607/the-dsa-grind/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shouryarai607/the-dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/shouryarai607/the-dsa-grind/tree/master/0217-contains-duplicate) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/2255-count-prefixes-of-a-given-string) |
 ## Trie
 |  |
@@ -33,8 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/shouryarai607/the-dsa-grind/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shouryarai607/the-dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shouryarai607/the-dsa-grind/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
