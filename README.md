@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shouryarai607/the-dsa-grind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shouryarai607/the-dsa-grind/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shouryarai607/the-dsa-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shouryarai607/the-dsa-grind/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shouryarai607/the-dsa-grind/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shouryarai607/the-dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shouryarai607/the-dsa-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shouryarai607/the-dsa-grind/tree/master/0217-contains-duplicate) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/shouryarai607/the-dsa-grind/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/shouryarai607/the-dsa-grind/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/0977-squares-of-a-sorted-array) |
