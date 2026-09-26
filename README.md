@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shouryarai607/the-dsa-grind/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/shouryarai607/the-dsa-grind/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/shouryarai607/the-dsa-grind/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/shouryarai607/the-dsa-grind/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shouryarai607/the-dsa-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shouryarai607/the-dsa-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/shouryarai607/the-dsa-grind/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shouryarai607/the-dsa-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/shouryarai607/the-dsa-grind/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shouryarai607/the-dsa-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shouryarai607/the-dsa-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
