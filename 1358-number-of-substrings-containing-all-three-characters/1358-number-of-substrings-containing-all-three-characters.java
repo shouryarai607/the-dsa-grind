@@ -9,7 +9,8 @@ class Solution {
             arr[s.charAt(r)-'a']++;
 
             while(arr[0]>0 && arr[1]>0 && arr[2]>0){
-                sub += s.length() - r ;
+                sub++;
+                sub += s.length()-1 - r ;
                 arr[s.charAt(l)-'a']--;
                 l++;
                 if(r-l+1<3){
