@@ -12,11 +12,11 @@ class Solution {
                 mpp.put(nums[r], mpp.getOrDefault(nums[r], 0)+1);
 
                 while(mpp.size()>k){
-                    int val = nums[l];
-                    mpp.put(val, mpp.get(val)-1);
+                //    int val = nums[l];
+                    mpp.put(nums[l], mpp.get(nums[l])-1);
 
-                    if(mpp.get(val)==0){
-                        mpp.remove(val);
+                    if(mpp.get(nums[l])==0){
+                        mpp.remove(nums[l]);
                     }
                     l++;
                 }
