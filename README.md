@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shouryarai607/the-dsa-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shouryarai607/the-dsa-grind/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shouryarai607/the-dsa-grind/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0303-range-sum-query-immutable) |
 | [0611-valid-triangle-number](https://github.com/shouryarai607/the-dsa-grind/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/shouryarai607/the-dsa-grind/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/shouryarai607/the-dsa-grind/tree/master/0904-fruit-into-baskets) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0303-range-sum-query-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shouryarai607/the-dsa-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1480-running-sum-of-1d-array) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/shouryarai607/the-dsa-grind/tree/master/1248-count-number-of-nice-subarrays) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
