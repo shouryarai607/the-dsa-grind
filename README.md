@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shouryarai607/the-dsa-grind/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shouryarai607/the-dsa-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1732-find-the-highest-altitude](https://github.com/shouryarai607/the-dsa-grind/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1991-find-the-middle-index-in-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shouryarai607/the-dsa-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/shouryarai607/the-dsa-grind/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
