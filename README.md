@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shouryarai607/the-dsa-grind/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shouryarai607/the-dsa-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shouryarai607/the-dsa-grind/tree/master/2483-minimum-penalty-for-a-shop) |
 ## String Matching
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/shouryarai607/the-dsa-grind/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1991-find-the-middle-index-in-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/shouryarai607/the-dsa-grind/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Math
 |  |
 | ------- |
