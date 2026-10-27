@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shouryarai607/the-dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shouryarai607/the-dsa-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shouryarai607/the-dsa-grind/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shouryarai607/the-dsa-grind/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shouryarai607/the-dsa-grind/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0303-range-sum-query-immutable) |
 | [0611-valid-triangle-number](https://github.com/shouryarai607/the-dsa-grind/tree/master/0611-valid-triangle-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shouryarai607/the-dsa-grind/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shouryarai607/the-dsa-grind/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0930-binary-subarrays-with-sum) |
