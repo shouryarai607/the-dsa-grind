@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shouryarai607/the-dsa-grind/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shouryarai607/the-dsa-grind/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/shouryarai607/the-dsa-grind/tree/master/2559-count-vowel-strings-in-ranges) |
 ## String Matching
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1991-find-the-middle-index-in-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/shouryarai607/the-dsa-grind/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shouryarai607/the-dsa-grind/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1991-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shouryarai607/the-dsa-grind/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/shouryarai607/the-dsa-grind/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Math
 |  |
 | ------- |
