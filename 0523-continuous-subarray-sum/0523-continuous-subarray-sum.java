@@ -10,13 +10,13 @@ class Solution {
 
             prefix += nums[i];
 
-            int rem;
+            int rem = prefix % k;
 
-            if(k !=0){
-                rem = prefix % k;
-            }else{
-                rem = prefix;
-            }
+            // if(k !=0){
+                
+            // }else{
+            //     rem = prefix;
+            // }
 
             if(map.containsKey(rem)){
                 if(i - map.get(rem) >= 2){
