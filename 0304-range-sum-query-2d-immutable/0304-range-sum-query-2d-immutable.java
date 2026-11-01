@@ -1,6 +1,6 @@
 class NumMatrix {
 
-    public int[][] prefix;
+    private int[][] prefix;
 
     public NumMatrix(int[][] matrix) {
         if(matrix==null || matrix.length == 0 || matrix[0].length ==0){
