@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shouryarai607/the-dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shouryarai607/the-dsa-grind/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/1314-matrix-block-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shouryarai607/the-dsa-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shouryarai607/the-dsa-grind/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1480-running-sum-of-1d-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shouryarai607/the-dsa-grind/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shouryarai607/the-dsa-grind/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/shouryarai607/the-dsa-grind/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/shouryarai607/the-dsa-grind/tree/master/1732-find-the-highest-altitude) |
@@ -229,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0304-range-sum-query-2d-immutable) |
+| [1314-matrix-block-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
