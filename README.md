@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shouryarai607/the-dsa-grind/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shouryarai607/the-dsa-grind/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shouryarai607/the-dsa-grind/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/0560-subarray-sum-equals-k) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0304-range-sum-query-2d-immutable) |
 ## Tree
 |  |
 | ------- |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0523-continuous-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
