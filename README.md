@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shouryarai607/the-dsa-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/shouryarai607/the-dsa-grind/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/shouryarai607/the-dsa-grind/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shouryarai607/the-dsa-grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/1991-find-the-middle-index-in-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shouryarai607/the-dsa-grind/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shouryarai607/the-dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shouryarai607/the-dsa-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shouryarai607/the-dsa-grind/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
 | ------- |
