@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shouryarai607/the-dsa-grind/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/shouryarai607/the-dsa-grind/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shouryarai607/the-dsa-grind/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shouryarai607/the-dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shouryarai607/the-dsa-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shouryarai607/the-dsa-grind/tree/master/0217-contains-duplicate) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shouryarai607/the-dsa-grind/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shouryarai607/the-dsa-grind/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shouryarai607/the-dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shouryarai607/the-dsa-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0304-range-sum-query-2d-immutable) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/shouryarai607/the-dsa-grind/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/1314-matrix-block-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shouryarai607/the-dsa-grind/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
