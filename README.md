@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shouryarai607/the-dsa-grind/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shouryarai607/the-dsa-grind/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/shouryarai607/the-dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/0560-subarray-sum-equals-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shouryarai607/the-dsa-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shouryarai607/the-dsa-grind/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/shouryarai607/the-dsa-grind/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/shouryarai607/the-dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shouryarai607/the-dsa-grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0523-continuous-subarray-sum) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shouryarai607/the-dsa-grind/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/shouryarai607/the-dsa-grind/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/shouryarai607/the-dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/shouryarai607/the-dsa-grind/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/shouryarai607/the-dsa-grind/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/0977-squares-of-a-sorted-array) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shouryarai607/the-dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shouryarai607/the-dsa-grind/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shouryarai607/the-dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shouryarai607/the-dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
@@ -252,5 +257,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shouryarai607/the-dsa-grind/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/shouryarai607/the-dsa-grind/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shouryarai607/the-dsa-grind/tree/master/0918-maximum-sum-circular-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shouryarai607/the-dsa-grind/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shouryarai607/the-dsa-grind/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
