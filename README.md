@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shouryarai607/the-dsa-grind/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shouryarai607/the-dsa-grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/shouryarai607/the-dsa-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shouryarai607/the-dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/shouryarai607/the-dsa-grind/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shouryarai607/the-dsa-grind/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/shouryarai607/the-dsa-grind/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shouryarai607/the-dsa-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/shouryarai607/the-dsa-grind/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shouryarai607/the-dsa-grind/tree/master/1248-count-number-of-nice-subarrays) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shouryarai607/the-dsa-grind/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shouryarai607/the-dsa-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/shouryarai607/the-dsa-grind/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shouryarai607/the-dsa-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/shouryarai607/the-dsa-grind/tree/master/1314-matrix-block-sum) |
