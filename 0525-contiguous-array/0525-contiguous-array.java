@@ -22,5 +22,27 @@ class Solution {
         }
         return maxlen;
         
+
+        // HashMap <Integer, Integer> map = new HashMap<>();
+        // int prefixsum = 0;
+        // for(int i=0;i<nums.length;i++){
+        //     if(nums[i] == 0){
+        //         prefixsum -= 1;
+        //     }else{
+        //         prefixsum += 1;
+        //     }
+        //     map.put(prefixsum, map.getOrDefault(prefixsum, 0)+1);
+        //     if(map.containsKey(prefixsum + 1)){
+
+        //     }
+        // }
+
+
+
+
+
+
+
+
     }
 }
